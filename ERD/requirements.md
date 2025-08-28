@@ -12,4 +12,4 @@ This schema is designed to ensure a robust, scalable, and normalized data struct
 
 ## Database Diagram
 
-
+<img width="3168" height="3424" alt="image" src="https://github.com/user-attachments/assets/bb462cf3-3ac8-4440-89b8-cb1e8c2a601f" />
