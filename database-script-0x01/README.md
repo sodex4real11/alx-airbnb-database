@@ -1,1 +1,1 @@
-# Advanced SQL Scripting for Airbnb Clone
+# Airbnb Clone - Database Schema Script
