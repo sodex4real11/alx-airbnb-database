@@ -12,4 +12,4 @@ This schema is designed to ensure a robust, scalable, and normalized data struct
 
 ## Database Diagram
 
-![airbnb_erd] https://drive.google.com/file/d/1e3ppteqV_XapmEa3ci8xkLmzi2NOTImD/view?usp=sharing
+![airbnb_erd] <img width="3168" height="3424" alt="image" src="https://github.com/user-attachments/assets/bb462cf3-3ac8-4440-89b8-cb1e8c2a601f" />
